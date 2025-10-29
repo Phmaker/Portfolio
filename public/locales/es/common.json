@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "title": "Ingeniero de Software & Desarrollador Full Stack",
+    "subtitle": "Creando experiencias digitales excepcionales con React, Next.js y tecnologías modernas.",
+    "viewProjects": "Ver Proyectos",
+    "contact": "Contactar"
+  },
+  "skills": {
+    "title": "Mis Habilidades"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  }
+}
